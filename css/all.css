@@ -27,6 +27,8 @@ body {
     min-width: 1900px;
     line-height: 1;
     font-family: 'Noto Sans KR', sans-serif;
+    overflow-x: hidden;
+    min-width: 1900px;
 }
 
 /* 공통스타일 */
